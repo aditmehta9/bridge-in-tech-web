@@ -1,26 +1,24 @@
 {
   "files": {
-    "main.css": "/bridge-in-tech-web/static/css/main.81efb4b8.chunk.css",
-    "main.js": "/bridge-in-tech-web/static/js/main.244dfb09.chunk.js",
-    "main.js.map": "/bridge-in-tech-web/static/js/main.244dfb09.chunk.js.map",
-    "runtime-main.js": "/bridge-in-tech-web/static/js/runtime-main.0076437f.js",
-    "runtime-main.js.map": "/bridge-in-tech-web/static/js/runtime-main.0076437f.js.map",
-    "static/js/2.aa1352a9.chunk.js": "/bridge-in-tech-web/static/js/2.aa1352a9.chunk.js",
-    "static/js/2.aa1352a9.chunk.js.map": "/bridge-in-tech-web/static/js/2.aa1352a9.chunk.js.map",
+    "main.css": "/bridge-in-tech-web/static/css/main.c9d0f351.chunk.css",
+    "main.js": "/bridge-in-tech-web/static/js/main.56ead8ba.chunk.js",
+    "main.js.map": "/bridge-in-tech-web/static/js/main.56ead8ba.chunk.js.map",
+    "runtime-main.js": "/bridge-in-tech-web/static/js/runtime-main.8169c48f.js",
+    "runtime-main.js.map": "/bridge-in-tech-web/static/js/runtime-main.8169c48f.js.map",
+    "static/js/2.d2a327bc.chunk.js": "/bridge-in-tech-web/static/js/2.d2a327bc.chunk.js",
+    "static/js/2.d2a327bc.chunk.js.map": "/bridge-in-tech-web/static/js/2.d2a327bc.chunk.js.map",
     "index.html": "/bridge-in-tech-web/index.html",
-    "precache-manifest.d404f14ba01edcb55e77be16e8d1225b.js": "/bridge-in-tech-web/precache-manifest.d404f14ba01edcb55e77be16e8d1225b.js",
-    "service-worker.js": "/bridge-in-tech-web/service-worker.js",
-    "static/css/main.81efb4b8.chunk.css.map": "/bridge-in-tech-web/static/css/main.81efb4b8.chunk.css.map",
-    "static/js/2.aa1352a9.chunk.js.LICENSE.txt": "/bridge-in-tech-web/static/js/2.aa1352a9.chunk.js.LICENSE.txt",
-    "static/media/AnitaBLogo.png": "/bridge-in-tech-web/static/media/AnitaBLogo.a7dc4096.png",
-    "static/media/benefit1.png": "/bridge-in-tech-web/static/media/benefit1.49031bf3.png",
-    "static/media/benefit2.png": "/bridge-in-tech-web/static/media/benefit2.bf7302d6.png",
-    "static/media/Home.css": "/bridge-in-tech-web/static/media/bg.08bf0a96.png"
+    "static/css/main.c9d0f351.chunk.css.map": "/bridge-in-tech-web/static/css/main.c9d0f351.chunk.css.map",
+    "static/js/2.d2a327bc.chunk.js.LICENSE.txt": "/bridge-in-tech-web/static/js/2.d2a327bc.chunk.js.LICENSE.txt",
+    "static/media/AnitaBLogo.8a2dc469.png": "/bridge-in-tech-web/static/media/AnitaBLogo.8a2dc469.png",
+    "static/media/benefit1.f2d418ce.png": "/bridge-in-tech-web/static/media/benefit1.f2d418ce.png",
+    "static/media/benefit2.d3d4315f.png": "/bridge-in-tech-web/static/media/benefit2.d3d4315f.png",
+    "static/media/Home.css": "/bridge-in-tech-web/static/media/bg.b23c09a5.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.0076437f.js",
-    "static/js/2.aa1352a9.chunk.js",
-    "static/css/main.81efb4b8.chunk.css",
-    "static/js/main.244dfb09.chunk.js"
+    "static/js/runtime-main.8169c48f.js",
+    "static/js/2.d2a327bc.chunk.js",
+    "static/css/main.c9d0f351.chunk.css",
+    "static/js/main.56ead8ba.chunk.js"
   ]
 }
