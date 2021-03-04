@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/bridge-in-tech-web/static/css/main.c9d0f351.chunk.css",
-    "main.js": "/bridge-in-tech-web/static/js/main.7658a47c.chunk.js",
-    "main.js.map": "/bridge-in-tech-web/static/js/main.7658a47c.chunk.js.map",
+    "main.css": "/bridge-in-tech-web/static/css/main.8d054d46.chunk.css",
+    "main.js": "/bridge-in-tech-web/static/js/main.fd85c523.chunk.js",
+    "main.js.map": "/bridge-in-tech-web/static/js/main.fd85c523.chunk.js.map",
     "runtime-main.js": "/bridge-in-tech-web/static/js/runtime-main.8169c48f.js",
     "runtime-main.js.map": "/bridge-in-tech-web/static/js/runtime-main.8169c48f.js.map",
-    "static/js/2.d2a327bc.chunk.js": "/bridge-in-tech-web/static/js/2.d2a327bc.chunk.js",
-    "static/js/2.d2a327bc.chunk.js.map": "/bridge-in-tech-web/static/js/2.d2a327bc.chunk.js.map",
+    "static/js/2.620b8b61.chunk.js": "/bridge-in-tech-web/static/js/2.620b8b61.chunk.js",
+    "static/js/2.620b8b61.chunk.js.map": "/bridge-in-tech-web/static/js/2.620b8b61.chunk.js.map",
     "index.html": "/bridge-in-tech-web/index.html",
-    "static/css/main.c9d0f351.chunk.css.map": "/bridge-in-tech-web/static/css/main.c9d0f351.chunk.css.map",
-    "static/js/2.d2a327bc.chunk.js.LICENSE.txt": "/bridge-in-tech-web/static/js/2.d2a327bc.chunk.js.LICENSE.txt",
+    "static/css/main.8d054d46.chunk.css.map": "/bridge-in-tech-web/static/css/main.8d054d46.chunk.css.map",
+    "static/js/2.620b8b61.chunk.js.LICENSE.txt": "/bridge-in-tech-web/static/js/2.620b8b61.chunk.js.LICENSE.txt",
     "static/media/AnitaBLogo.8a2dc469.png": "/bridge-in-tech-web/static/media/AnitaBLogo.8a2dc469.png",
     "static/media/benefit1.f2d418ce.png": "/bridge-in-tech-web/static/media/benefit1.f2d418ce.png",
     "static/media/benefit2.d3d4315f.png": "/bridge-in-tech-web/static/media/benefit2.d3d4315f.png",
@@ -17,8 +17,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.8169c48f.js",
-    "static/js/2.d2a327bc.chunk.js",
-    "static/css/main.c9d0f351.chunk.css",
-    "static/js/main.7658a47c.chunk.js"
+    "static/js/2.620b8b61.chunk.js",
+    "static/css/main.8d054d46.chunk.css",
+    "static/js/main.fd85c523.chunk.js"
   ]
 }
